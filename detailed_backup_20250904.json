@@ -1,0 +1,227 @@
+{"enquiry":{"timestamp":"2025-09-04 07:45:05","reference":"MK2509045561","customer":"Mr. Sayed Shoaib","email":"ss3869224@gmail.com","phone":"8169545561","model":"CARENS CLAVIS EV","email_sent":"NO","method":"","ip":"::1"},"form_data":{"_method":"POST","campaigntitle":"","utm_campaign":"","utm_adgroup":"","utm_keyword":"","utm_medium":"","utm_source":"","utm_content":"","device_type":"","match_type":"","creative":"","utm_term":"","languague":"English","adgroup":"","devicemodel":"","adposition":"","gclid":"","auction":"","number":"","customer":"169","lp_url":"https:\/\/preprod.myspotlight.co\/landing-pages-master\/adgrouplandingpage\/no_storecode\/169\/?&domain=www.modi-kia-kalyan.com","otp_text":"","lead_id":"","salutation":"Mr.","first_name":"Sayed","last_name":"Shoaib","email":"ss3869224@gmail.com","model":"113","phone":"8169545561","get_voucher":"1"},"server_info":{"host":"localhost","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36","referer":"http:\/\/localhost\/public_html\/index.html"}}
+{
+    "enquiry": {
+        "timestamp": "2025-09-04 18:42:47",
+        "reference": "MK2509045561",
+        "customer": "Mr. sayed shoaib",
+        "email": "ss3869224@gmail.com",
+        "phone": "8169545561",
+        "model": "SONET",
+        "email_sent": true,
+        "method": "SMTP",
+        "ip": "::1"
+    },
+    "form_data": {
+        "_method": "POST",
+        "campaigntitle": "",
+        "utm_campaign": "",
+        "utm_adgroup": "",
+        "utm_keyword": "",
+        "utm_medium": "",
+        "utm_source": "",
+        "utm_content": "",
+        "device_type": "",
+        "match_type": "",
+        "creative": "",
+        "utm_term": "",
+        "languague": "English",
+        "adgroup": "",
+        "devicemodel": "",
+        "adposition": "",
+        "gclid": "",
+        "auction": "",
+        "number": "",
+        "customer": "169",
+        "lp_url": "https:\/\/preprod.myspotlight.co\/landing-pages-master\/adgrouplandingpage\/no_storecode\/169\/?&domain=www.modi-kia-kalyan.com",
+        "otp_text": "",
+        "lead_id": "",
+        "salutation": "Mr.",
+        "first_name": "sayed",
+        "last_name": "shoaib",
+        "email": "ss3869224@gmail.com",
+        "model": "48",
+        "phone": "8169545561",
+        "get_voucher": "1"
+    },
+    "email_results": {
+        "admin": true,
+        "customer": true,
+        "errors": []
+    },
+    "server_info": {
+        "host": "localhost",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+        "referer": "http:\/\/localhost\/public_html\/index.html"
+    }
+}
+{
+    "enquiry": {
+        "timestamp": "2025-09-04 18:53:18",
+        "reference": "MK2509045561",
+        "customer": "Mr. sayed shoaib",
+        "email": "shoaib3869224@gmail.com",
+        "phone": "8169545561",
+        "model": "CARENS CLAVIS",
+        "admin_email": "SUCCESS",
+        "customer_email": "SUCCESS",
+        "method": "LOCAL_SIMULATION",
+        "environment": "LOCAL",
+        "ip": "::1"
+    },
+    "form_data": {
+        "_method": "POST",
+        "campaigntitle": "",
+        "utm_campaign": "",
+        "utm_adgroup": "",
+        "utm_keyword": "",
+        "utm_medium": "",
+        "utm_source": "",
+        "utm_content": "",
+        "device_type": "",
+        "match_type": "",
+        "creative": "",
+        "utm_term": "",
+        "languague": "English",
+        "adgroup": "",
+        "devicemodel": "",
+        "adposition": "",
+        "gclid": "",
+        "auction": "",
+        "number": "",
+        "customer": "169",
+        "lp_url": "https:\/\/preprod.myspotlight.co\/landing-pages-master\/adgrouplandingpage\/no_storecode\/169\/?&domain=www.modi-kia-kalyan.com",
+        "otp_text": "",
+        "lead_id": "",
+        "salutation": "Mr.",
+        "first_name": "sayed",
+        "last_name": "shoaib",
+        "email": "shoaib3869224@gmail.com",
+        "model": "111",
+        "phone": "8169545561",
+        "get_voucher": "1"
+    },
+    "email_results": {
+        "admin": true,
+        "customer": true,
+        "method": "LOCAL_SIMULATION",
+        "errors": []
+    },
+    "environment": {
+        "is_local": true,
+        "host": "localhost",
+        "server_addr": "::1"
+    }
+}
+{
+    "enquiry": {
+        "timestamp": "2025-09-04 18:54:19",
+        "reference": "MK2509045561",
+        "customer": "Mr. sayed shoaib",
+        "email": "ss3869224@gmail.com",
+        "phone": "8169545561",
+        "model": "CARENS CLAVIS EV",
+        "admin_email": "SUCCESS",
+        "customer_email": "SUCCESS",
+        "method": "LOCAL_SIMULATION",
+        "environment": "LOCAL",
+        "ip": "::1"
+    },
+    "form_data": {
+        "_method": "POST",
+        "campaigntitle": "",
+        "utm_campaign": "",
+        "utm_adgroup": "",
+        "utm_keyword": "",
+        "utm_medium": "",
+        "utm_source": "",
+        "utm_content": "",
+        "device_type": "",
+        "match_type": "",
+        "creative": "",
+        "utm_term": "",
+        "languague": "English",
+        "adgroup": "",
+        "devicemodel": "",
+        "adposition": "",
+        "gclid": "",
+        "auction": "",
+        "number": "",
+        "customer": "169",
+        "lp_url": "https:\/\/preprod.myspotlight.co\/landing-pages-master\/adgrouplandingpage\/no_storecode\/169\/?&domain=www.modi-kia-kalyan.com",
+        "otp_text": "",
+        "lead_id": "",
+        "salutation": "Mr.",
+        "first_name": "sayed",
+        "last_name": "shoaib",
+        "email": "ss3869224@gmail.com",
+        "model": "113",
+        "phone": "8169545561",
+        "get_voucher": "1"
+    },
+    "email_results": {
+        "admin": true,
+        "customer": true,
+        "method": "LOCAL_SIMULATION",
+        "errors": []
+    },
+    "environment": {
+        "is_local": true,
+        "host": "localhost",
+        "server_addr": "::1"
+    }
+}
+{
+    "enquiry": {
+        "timestamp": "2025-09-04 18:54:57",
+        "reference": "MK2509045561",
+        "customer": "Mr. sayed shoaib",
+        "email": "shoaib3869224@gmail.com",
+        "phone": "8169545561",
+        "model": "CARENS CLAVIS EV",
+        "email_sent": true,
+        "method": "SMTP",
+        "ip": "::1"
+    },
+    "form_data": {
+        "_method": "POST",
+        "campaigntitle": "",
+        "utm_campaign": "",
+        "utm_adgroup": "",
+        "utm_keyword": "",
+        "utm_medium": "",
+        "utm_source": "",
+        "utm_content": "",
+        "device_type": "",
+        "match_type": "",
+        "creative": "",
+        "utm_term": "",
+        "languague": "English",
+        "adgroup": "",
+        "devicemodel": "",
+        "adposition": "",
+        "gclid": "",
+        "auction": "",
+        "number": "",
+        "customer": "169",
+        "lp_url": "https:\/\/preprod.myspotlight.co\/landing-pages-master\/adgrouplandingpage\/no_storecode\/169\/?&domain=www.modi-kia-kalyan.com",
+        "otp_text": "",
+        "lead_id": "",
+        "salutation": "Mr.",
+        "first_name": "sayed",
+        "last_name": "shoaib",
+        "email": "shoaib3869224@gmail.com",
+        "model": "113",
+        "phone": "8169545561",
+        "get_voucher": "1"
+    },
+    "email_results": {
+        "admin": true,
+        "customer": true,
+        "errors": []
+    },
+    "server_info": {
+        "host": "localhost",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36",
+        "referer": "http:\/\/localhost\/public_html\/index.html"
+    }
+}
